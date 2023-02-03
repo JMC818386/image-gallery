@@ -21,6 +21,7 @@ const alts = {
     'pic3.jpg': 'Purple Flowers',
     'pic4.jpg': 'Anubis Juxtaposed',
     'pic5.jpg': 'Butterfly'
+    'pic5.jpg': 'Butterfly'
 }
 
 //--------------------For loop-----------------------//
